@@ -1,0 +1,14 @@
+{
+  "alarms": [
+    {
+      "id": 1,
+	  "description": "servo motor alarm",
+      "date": "2022-06-08 00:12:30"
+    },
+    {
+      "id": 2,
+	  "description": "servo motor alarm",
+      "date": "2022-06-10 00:17:30"
+    }
+  ]
+}
