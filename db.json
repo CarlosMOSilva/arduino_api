@@ -2,13 +2,21 @@
   "alarms": [
     {
       "id": 1,
-	  "description": "servo motor alarm",
-      "date": "2022-06-08 00:12:30"
+	  "type_id": 1,
+      "date": "2022-06-08 00:12:30",
+      "seen": false
     },
     {
       "id": 2,
-	  "description": "servo motor alarm",
-      "date": "2022-06-10 00:17:30"
+      "type_id": 1,
+      "date": "2022-06-10 00:17:30",
+      "seen": false
+    }
+  ],
+  "alarmTypes": [
+    {
+      "id": 1,
+      "description": "servo motor alarm"
     }
   ]
 }
